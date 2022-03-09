@@ -4,6 +4,4 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myafer&layout=compact"/>
 
-![Visited By](https://count.getloli.com/get/@myafer?theme=gelbooru)
-
 Well Well Welcome！
